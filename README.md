@@ -16,5 +16,4 @@ By default, fileserver executes using port 8080 serving the files in current wor
         Print version string and exit
 ```
 
-By default, fileserver run on port 8080 the files in current working directory.
-
+As usual, you can build this using `go build main.go`. I've set a `Makefile` to just build and output in `dist/` using `make build`.

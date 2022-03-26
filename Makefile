@@ -1,2 +1,2 @@
 build:
-	go build -o dist/filserver main.go
+	go build -o dist/fileserver main.go
